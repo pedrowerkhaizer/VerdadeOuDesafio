@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Verdade Ou Desafio: Jeitinho Brasileiro</string>
+    <string name="amigos">amigos</string>
+    <string name="casal">casal</string>
+    <string name="parceirx_1">Parceirx 1:</string>
+    <string name="parceirx_2">Parceirx 2:</string>
+    <string name="clica_em_mim">clica em mim</string>
+    <string name="desc_extremo">Sem limites! Aqui você fará coisas que nunca fez antes. Será uma noite difícil de se esquecer.</string>
+    <string name="extremo">extremo</string>
+    <string name="desc_daquele_jeito">As preliminares aqui comem soltas. O clima fica mais quente, assim como seus corpos.</string>
+    <string name="daquele_jeito">daquele jeito</string>
+    <string name="desc_hmmm">A dificuldade aumenta e a temperatura também. Os desafios aqui são indicados para 18+</string>
+    <string name="hmm">hmm....</string>
+    <string name="desc_de_leve">Essa categoria é perfeita para iniciar a noite com os amigos ou com x mozao.</string>
+    <string name="de_leve">de leve</string>
+    <string name="desc_divertido">Para todas as idades. Essa categoria foi feita para quem não quer extrapolar.</string>
+    <string name="divertido">divertido</string>
+    <string name="categoria">categoria</string>
+    <string name="bora">bora!</string>
+    <string name="tem_mais_um">tem mais um</string>
+    <string name="nome_aqui">nome aqui</string>
+</resources>
