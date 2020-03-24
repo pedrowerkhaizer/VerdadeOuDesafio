@@ -64,7 +64,7 @@
                 android:orientation="horizontal">
 
                 <EditText
-                    android:id="@+id/nome_1"
+                    android:id="@+id/txtFriendName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@android:color/transparent"
@@ -87,6 +87,12 @@
                     android:padding="16dp"/>
 
             </LinearLayout>
+
+            <ListView
+                android:id="@+id/lvFriendName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
 
                 <Button
                     android:id="@+id/btnAddPlayer"
